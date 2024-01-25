@@ -1,5 +1,5 @@
-# Discord-Like Application Readme
-
+# Discord-Like Application created using Python Django
+### for more such application visit my website https://avezqureshi.netlify.app/
 ## Introduction
 
 Welcome to the Discord-Like Application, a Python Django-based platform that allows users to create rooms and engage in both group and individual chats. This application is designed to provide a seamless communication experience similar to popular messaging platforms like Discord.
