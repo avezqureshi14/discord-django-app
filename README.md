@@ -14,8 +14,6 @@ Welcome to the Discord-Like Application, a Python Django-based platform that all
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -97,6 +95,6 @@ To set up the Discord-Like Application, follow these steps:
 5. **File Sharing:**
    - Click on the file attachment icon.
    - Select the file you want to share.
-   - 
+   
 
 Thank you for using the Discord-Like Application! If you have any questions or issues, please contact Mohammad Avez Qureshi at [Portfolio](https://avezqureshi.netlify.app/).
