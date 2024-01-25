@@ -1,5 +1,10 @@
 # Discord-Like Application created using Python Django
+
+## About Me
+🚀 Full Stack Developer | MERN & Python Django Enthusiast
+Welcome to my corner of the digital world! 👋 I'm Mohammad Avez Qureshi, a passionate Full Stack Developer with expertise in both MERN (MongoDB, Express.js, React.js, Node.js) and Python Django stacks. Currently honing my skills at Sinhgad Institutes in Pune.
 ### for more such application visit my website https://avezqureshi.netlify.app/
+
 ## Introduction
 
 Welcome to the Discord-Like Application, a Python Django-based platform that allows users to create rooms and engage in both group and individual chats. This application is designed to provide a seamless communication experience similar to popular messaging platforms like Discord.
